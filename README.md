@@ -16,6 +16,12 @@ Then generate your new project:
 yo university
 ```
 
+Assuming that a LaTeX suite has been installed and is available on your $PATH, the document can be compiled:
+```bash
+latexmk -f -pdf
+```
+This will produce the file ```main.pdf```.
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
