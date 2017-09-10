@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Christopher McMorran",
+      "authorEmail": "chris.mcmorran@carleton.ca",
+      "authorUrl": ""
+    }
+  }
+}
